@@ -1,4 +1,4 @@
-from ..main import Tom
+from main import Tom
 
 class TestClass:
 
